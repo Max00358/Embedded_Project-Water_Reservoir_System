@@ -29,6 +29,7 @@ https://github.com/Max00358/Embedded_Project-Water_Reservoir_System/assets/12551
       * RGB LED: Inolux 5mm Full-Color Through Hole Lamp HV-5RGBXX Series
       * CMOS Digital Buffer CD74HC4050
       * Digital Buffer HCT541
+      * Timer Board
       * Speed Sensor
       * UART-USB Adaptor
     
