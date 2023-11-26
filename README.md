@@ -8,10 +8,10 @@ An embedded system design that simulates an irrigation system.
 https://github.com/Max00358/Embedded_Project-Water_Reservoir_System/assets/125518862/4ba04167-3baa-417d-b4a0-9cab5129776c
 
 ## Project Details
+![Image 35](https://github.com/Max00358/Embedded_Project-Water_Reservoir_System/assets/125518862/0209e8c0-7cc4-4964-b10b-12a9bf5edb6a)
+![Image 97](https://github.com/Max00358/Embedded_Project-Water_Reservoir_System/assets/125518862/82e2bc27-03a0-4e52-a492-b5fd5b5260d6)
 ![Image 64](https://github.com/Max00358/Embedded_Project-Water_Reservoir_System/assets/125518862/4bd2bfbf-69b1-485c-8b77-cdbac29d73c6)
 ![Image 61](https://github.com/Max00358/Embedded_Project-Water_Reservoir_System/assets/125518862/f78ed64e-e29a-4393-ad9c-720eee70f4f9)
-![Image 97](https://github.com/Max00358/Embedded_Project-Water_Reservoir_System/assets/125518862/82e2bc27-03a0-4e52-a492-b5fd5b5260d6)
-![Image 35](https://github.com/Max00358/Embedded_Project-Water_Reservoir_System/assets/125518862/0209e8c0-7cc4-4964-b10b-12a9bf5edb6a)
 ![Image 71](https://github.com/Max00358/Embedded_Project-Water_Reservoir_System/assets/125518862/b021a1f2-58e5-41f0-a5cf-7ede6a91363e)
 ![Image](https://github.com/Max00358/Embedded_Project-Water_Reservoir_System/assets/125518862/f9f06e28-0540-44e4-bfc1-b2774a88d53c)
 
